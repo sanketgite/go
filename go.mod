@@ -14,7 +14,7 @@ require (
 	github.com/vardius/gocontainer v1.0.3
 	github.com/vardius/golog v1.2.0
 	github.com/vardius/gorouter/v4 v4.5.1
-	github.com/vardius/message-bus v1.1.4
+	github.com/vardius/message-bus v1.1.5
 	github.com/vardius/pubsub/v2 v2.0.0
 	github.com/vardius/pushpull v1.0.0
 	github.com/vardius/shutdown v1.0.2
