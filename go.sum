@@ -207,8 +207,8 @@ github.com/vardius/gorouter/v4 v4.5.1 h1:G4z0s/UFobopcA9zQFGqBBYFxG0PFk/w7x3ZVkt
 github.com/vardius/gorouter/v4 v4.5.1/go.mod h1:HUZmv8K/yhBG1WHDlIRSWo3WPjK1MYyOFDXSyC8wehg=
 github.com/vardius/message-bus v1.1.4 h1:qJnTHJ8AvhbVndSMlCYbnHhxFX180Vf25okxe4pKSaU=
 github.com/vardius/message-bus v1.1.4/go.mod h1:6xladCV2lMkUAE4bzzS85qKOiB5miV7aBVRafiTJGqw=
-github.com/vardius/pubsub/v2 v2.0.0 h1:Qap+eCkCmf0W6u30YZvDfx6kSVt7X40jVOkr1SVFAfk=
-github.com/vardius/pubsub/v2 v2.0.0/go.mod h1:nTOjeEbrrqJm4Vq4gP+S/JZ15ibu/FiUqMRtHgMnBwE=
+github.com/vardius/pubsub/v2 v2.0.1 h1:D2ouUAg1dg7V8GG/SnrWlnCmJ24FdFLXiLUkOlIQ8J4=
+github.com/vardius/pubsub/v2 v2.0.1/go.mod h1:nTOjeEbrrqJm4Vq4gP+S/JZ15ibu/FiUqMRtHgMnBwE=
 github.com/vardius/pushpull v1.0.0 h1:HIfM0ZVXmlDk0izjw711LW370AzsVmfsPdw2WA4wgp8=
 github.com/vardius/pushpull v1.0.0/go.mod h1:DnfCYduVuWJPteuP9zeazJzqMPVzpGdV7I/wZKw6bjA=
 github.com/vardius/shutdown v1.0.0/go.mod h1:hGnuGROeriE1DM1K219eoZeJmmfR0N2SUVND6buRs5Y=
