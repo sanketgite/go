@@ -6,7 +6,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20200108200545-475eaeb16496
 	github.com/caarlos0/env/v6 v6.2.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/go-sql-driver/mysql v1.5.0
+	github.com/go-sql-driver/mysql v1.6.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.1.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
