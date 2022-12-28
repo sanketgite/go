@@ -10,7 +10,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.1.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
-	github.com/rs/cors v1.7.0
+	github.com/rs/cors v1.8.3
 	github.com/vardius/gocontainer v1.0.3
 	github.com/vardius/golog v1.2.0
 	github.com/vardius/gorouter/v4 v4.5.1
